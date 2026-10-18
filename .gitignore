@@ -1,0 +1,13 @@
+# Keep client data out of the repo
+*.xlsx
+*.xls
+*.csv
+reports/
+clients/
+screenshots/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
